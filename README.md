@@ -1,4 +1,4 @@
-# Mermaid-assignment
+# Flowchart-TiO2-sol-gel
 Assignment for Scientific Journal Writing
 ```mermaid
 flowchart TD
